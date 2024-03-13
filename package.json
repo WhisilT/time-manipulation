@@ -1,0 +1,14 @@
+{
+  "name": "time-manipulation",
+  "version": "1.0.0",
+  "description": "Time Manipulation package which let's your travel in time",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "license": "MIT"
+}
